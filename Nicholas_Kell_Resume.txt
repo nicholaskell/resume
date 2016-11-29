@@ -10,7 +10,7 @@ EXPERIENCE
 
 SR. R&D SOFTWARE ENGINEER BAY TEK GAMES, PULASKI, WI APRIL 2011 - PRESENT
 
-Led multiple projects through conception to deployment. Write object oriented software for Linux x86 and Atmel micro-controllers in an FDD agile environment. Use C/C++, Python and BASH, MySQL, JavaScript, HTML as well as other languages and technologies as needed. Develop new designs, working closely with field testing to improve the current product and/or an older designed product. Deploy all Linux servers used for telemetry and real time reporting of products during the product lifecycle.  Working with and aiding electrical engineers and mechanical engineers to integrate systems. Help creating the QA process for software and hardware systems. Use Arduino, Raspberry Pi and other pieces of hardware for prototyping. Designing electrical circuits for proof of concepts.
+Led multiple projects through conception to deployment. Write object oriented software for Linux x86 and Atmel micro-controllers in an FDD agile environment. Use C/C++, as well as other languages and technologies as needed. Explore new technologies. Develop new designs, working closely with field testing to improve the current product and/or an older designed product. Develop and deploy Linux servers used for telemetry and real time reporting of products during the product lifecycle.  Work with and aiding electrical engineers and mechanical engineers to integrate systems. Help creating the QA process for software and hardware systems. Use Arduino, Raspberry Pi and other pieces of hardware for prototyping. Design simple electrical circuits for proof of concepts.
 
 INTERACTIVE MANAGER / LEAD ENGINEER IMAGINASIUM, GREEN BAY, WI MARCH 2010 - APRIL 2011
 
@@ -54,8 +54,6 @@ Leadership, managing small teams, great communication skills, attendance can’t
 “Simplicity is the ultimate sophistication.”
 — Leonardo da Vinci
 
-
 cell. 906.553.5289
 http://www.linkedin.com/in/nicholaskell
 nick.t.kell@gmail.com
-Updated version can be found: https://github.com/nicholaskell/resume
