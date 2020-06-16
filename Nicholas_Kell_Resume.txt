@@ -10,7 +10,7 @@ EXPERIENCE
 
 SR. R&D SOFTWARE ENGINEER BAY TEK GAMES, PULASKI, WI APRIL 2011 - PRESENT
 
-Led multiple projects through conception to deployment. Write object oriented software for Linux x86 and Atmel micro-controllers in an FDD agile environment. Use C/C++, as well as other languages and technologies as needed. Explore new technologies. Develop new designs, working closely with field testing to improve the current product and/or an older designed product. Develop and deploy Linux servers used for telemetry and real time reporting of products during the product lifecycle.  Work with and aiding electrical engineers and mechanical engineers to integrate systems. Help creating the QA process for software and hardware systems. Use Arduino, Raspberry Pi and other pieces of hardware for prototyping. Design simple electrical circuits for proof of concepts.
+Led multiple projects through conception to deployment. Write object oriented software for Linux x86 and Atmel micro-controllers in an FDD agile environment. Use C/C++, as well as multiple scripting languages to develop and test designs. Explore new technologies. Develop new designs, working closely with cross functional teams to improve products. Use multiple hardware tools to test product designs such as but not limited to scopes, data analyzers, spectrum analyzers. Integration of systems across multiple disciplines ensuring product goals are reached. Help creating the QA process for software and hardware systems. Use Arduino, Raspberry Pi and other pieces of hardware for prototyping and testing.
 
 INTERACTIVE MANAGER / LEAD ENGINEER IMAGINASIUM, GREEN BAY, WI MARCH 2010 - APRIL 2011
 
