@@ -1,18 +1,22 @@
 Nicholas Kell
-SOFTWARE ENGINEER WITH A PASSION FOR CODE
+SOFTWARE LEADERSHIP WITH A PASSION FOR CODE
 
 
 CAREER OBJECTIVE
 
-To bring my coding, creative and leadership skills to an organization that values innovation and ideas.
+To bring my creative and leadership skills to an organization that values innovation and ideas.
 
 EXPERIENCE
 
-SR. R&D SOFTWARE ENGINEER BAY TEK GAMES, PULASKI, WI APRIL 2011 - PRESENT
+SUPERVISOR CLAIMS ADJUDICATION TECHNOLOGY - NAVITUS APPLETON, WI AUGUST 2020 - PRESENT
+
+Lead a team of high performance software engineers to support the company’s primary adjudication platform. Coordinate tasks, give technical and architectural guidance as well as career development. Work with multiple different departments to ensure delivery of software is up to expectations.  Assist with onboarding company acquisitions from a technical perspective. 
+
+SR. R&D SOFTWARE ENGINEER - BAY TEK GAMES, PULASKI, WI APRIL 2011 - AUGUST 2020
 
 Led multiple projects through conception to deployment. Write object oriented software for Linux x86 and Atmel micro-controllers in an FDD agile environment. Use C/C++, as well as multiple scripting languages to develop and test designs. Explore new technologies. Develop new designs, working closely with cross functional teams to improve products. Use multiple hardware tools to test product designs such as but not limited to scopes, data analyzers, spectrum analyzers. Integration of systems across multiple disciplines ensuring product goals are reached. Help creating the QA process for software and hardware systems. Use Arduino, Raspberry Pi and other pieces of hardware for prototyping and testing.
 
-INTERACTIVE MANAGER / LEAD ENGINEER IMAGINASIUM, GREEN BAY, WI MARCH 2010 - APRIL 2011
+INTERACTIVE MANAGER / LEAD ENGINEER - IMAGINASIUM, GREEN BAY, WI MARCH 2010 - APRIL 2011
 
 Port existing websites and web services from a Microsoft OS to a Linux OS using open source tools. Use PHP, (X)HTML, CSS, Java Script,MySQL, MSSQL. Create new designs and modify old designs to meet new requirements, working closely with the project manager and customers to ensure quality is met. Created the now in place software design guidelines and FDD agile development environment. Configure and deploy Linux systems. Manage the hiring and letting go of employees in the Interactive Department. 
 
